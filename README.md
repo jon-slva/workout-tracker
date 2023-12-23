@@ -2,6 +2,14 @@
 
 The Workout Tracker App is a mobile application designed to help you track your workout progress. It allows you to record the number of reps and weights for a variety of exercises, helping you stay organized and motivated in your fitness journey.
 
+## Stack
+
+The Workout Tracker App is built using the following technologies:
+
+- **React Native**: A popular JavaScript framework for building native mobile apps. It allows you to write code once and deploy it on both iOS and Android platforms.
+
+- **SQLite**: A lightweight, serverless database engine that provides a relational database management system. It is used to store and retrieve workout data in the Workout Tracker App.
+
 ## Features
 
 - Track reps and weights for different exercises
