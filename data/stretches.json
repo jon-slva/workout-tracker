@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Hamstring Stretch",
+        "primary-muscle": "Hamstrings",
+        "secondary-muscle": "Lower Back",
+        "additional-muscle": "Calves",
+        "instructions": "Sit on the floor with one leg extended straight. Lean forward from your hips toward the toes of the extended leg. Hold and switch sides.",
+        "equipment": "none"
+    },
+    {
+        "id": 2,
+        "name": "Quad Stretch",
+        "primary-muscle": "Quadriceps",
+        "secondary-muscle": "Hip Flexors",
+        "additional-muscle": "Hamstrings",
+        "instructions": "Stand on one leg, bringing your heel towards your buttocks. Hold your ankle with your hand. Keep your knees close together. Repeat on the other leg.",
+        "equipment": "none"
+    },
+    {
+        "id": 3,
+        "name": "Calf Stretch",
+        "primary-muscle": "Calves",
+        "secondary-muscle": "Soleus",
+        "additional-muscle": "Achilles Tendon",
+        "instructions": "Stand facing a wall. Place one foot forward and bend the knee. Keep the back leg straight with the heel on the ground. Hold and switch sides.",
+        "equipment": "none"
+    },
+    {
+        "id": 4,
+        "name": "Shoulder Stretch",
+        "primary-muscle": "Deltoids",
+        "secondary-muscle": "Triceps",
+        "additional-muscle": "Upper Back",
+        "instructions": "Bring your right arm across your chest. Use your left hand to gently pull your right arm closer to your chest. Hold and switch sides.",
+        "equipment": "none"
+    },
+    {
+        "id": 5,
+        "name": "Neck Stretch",
+        "primary-muscle": "Neck",
+        "secondary-muscle": "Upper Trapezius",
+        "additional-muscle": "Scalenes",
+        "instructions": "Gently tilt your head to one side, bringing your ear towards your shoulder. Hold and repeat on the other side. Avoid rolling your neck.",
+        "equipment": "none"
+    },
+    {
+        "id": 6,
+        "name": "Hip Flexor Stretch",
+        "primary-muscle": "Hip Flexors",
+        "secondary-muscle": "Quadriceps",
+        "additional-muscle": "Lower Back",
+        "instructions": "Kneel on your right knee with your left foot in front, forming a 90-degree angle. Push your hips forward slightly, feeling a stretch in your right hip. Hold and switch sides.",
+        "equipment": "none"
+    }
+]

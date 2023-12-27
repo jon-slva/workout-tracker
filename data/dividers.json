@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "divider-label": "Chest",
+        "divider-description": "spend no longer than 120 seconds between exercises"
+    },
+    {
+        "id": 2,
+        "divider-label": "Triceps",
+        "divider-description": null
+    },
+    {
+        "id": 3,
+        "divider-label": "Abs",
+        "divider-description": null
+    }
+]

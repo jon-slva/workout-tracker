@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Chest day A1",
+        "note": "Focus on form and control",
+        "image": "https://wger.de/media/exercise-images/1/Pushup-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Leg day B1",
+        "note": "Remember to stretch before squats",
+        "image": "https://wger.de/media/exercise-images/2/Squat-2.png"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Chest",
+        "description": "The muscles in the chest region, including the pectoralis major and pectoralis minor."
+    },
+    {
+        "id": 2,
+        "name": "Back",
+        "description": "The muscles in the back, including the latissimus dorsi, rhomboids, and trapezius."
+    },
+    {
+        "id": 3,
+        "name": "Upper Legs",
+        "description": "The muscles in the lower body, including quadriceps, hamstrings, glutes, and calves."
+    },
+    {
+        "id": 4,
+        "name": "Lower Legs",
+        "description": "The muscles in the lower body, including quadriceps, hamstrings, glutes, and calves."
+    },
+    {
+        "id": 5,
+        "name": "Shoulders",
+        "description": "The muscles in the shoulder region, including deltoids and trapezius."
+    },
+    {
+        "id": 6,
+        "name": "Upper Arms",
+        "description": "The muscles in the arms, including biceps and triceps."
+    },
+    {
+        "id": 7,
+        "name": "Forearms",
+        "description": "The muscles in the arms, including biceps and triceps."
+    },
+    {
+        "id": 8,
+        "name": "Core",
+        "description": "The muscles in the abdominal and lower back region, including the rectus abdominis and obliques."
+    },
+    {
+        "id": 9,
+        "name": "Neck",
+        "description": "The muscles in the abdominal and lower back region, including the rectus abdominis and obliques."
+    },
+    {
+        "id": 10,
+        "name": "Cardiovascular",
+        "description": "The cardiovascular system, involving the heart and lungs. Cardio exercises benefit the overall cardiovascular system."
+    }
+]

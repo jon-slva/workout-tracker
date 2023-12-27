@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Anterior Deltoid",
+        "major-anatomy-id": 5,
+        "anatomy-id": 8
+    },
+    {
+        "id": 2,
+        "name": "Lateral Deltoid",
+        "major-anatomy-id": 5,
+        "anatomy-id": 8
+    },
+    {
+        "id": 3,
+        "name": "Posterior Deltoid",
+        "major-anatomy-id": 5,
+        "anatomy-id": 8
+    },
+    {
+        "id": 4,
+        "name": "Gastrocnemius Medial Head",
+        "major-anatomy-id": 4,
+        "anatomy-id": 6
+    },
+    {
+        "id": 5,
+        "name": "Gastrocnemius Lateral Head",
+        "major-anatomy-id": 4,
+        "anatomy-id": 6
+    },
+    {
+        "id": 6,
+        "name": "Soleus",
+        "major-anatomy-id": 4,
+        "anatomy-id": 6
+    },
+    {
+        "id": 7,
+        "name": "Tibialis",
+        "major-anatomy-id": 4,
+        "anatomy-id": 6
+    },
+    {
+        "id": 12,
+        "name": "Pectoralis Major - Upper",
+        "major-anatomy-id": 1,
+        "anatomy-id": 1
+    },
+    {
+        "id": 13,
+        "name": "Pectoralis Major - Center",
+        "major-anatomy-id": 1,
+        "anatomy-id": 1
+    },
+    {
+        "id": 14,
+        "name": "Pectoralis Major - Center",
+        "major-anatomy-id": 1,
+        "anatomy-id": 1
+    },
+    {
+        "id": 15,
+        "name": "Pectoralis Major - Inner",
+        "major-anatomy-id": 1,
+        "anatomy-id": 1
+    }
+]
