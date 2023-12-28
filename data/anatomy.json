@@ -6,12 +6,12 @@
     },
     {
         "id": 2,
-        "name": "Latissimus Dorsi",
+        "name": "Trapezius",
         "major-anatomy-id": 2
     },
     {
         "id": 3,
-        "name": "Trapezius",
+        "name": "Latissimus Dorsi",
         "major-anatomy-id": 2
     },
     {
@@ -46,57 +46,57 @@
     },
     {
         "id": 10,
+        "name": "Serratus Anterior",
+        "major-anatomy-id": 5
+    },
+    {
+        "id": 11,
         "name": "Biceps",
         "major-anatomy-id": 6
     },
     {
-        "id": 11,
-        "name": "Brachioradialis - Up",
-        "major-anatomy-id": 7
-    },
-    {
         "id": 12,
-        "name": "Anconeus - Down",
-        "major-anatomy-id": 7
-    },
-    {
-        "id": 13,
-        "name": "Wrist Flexor",
-        "major-anatomy-id": 7
-    },
-    {
-        "id": 14,
-        "name": "Wrist Extensor",
-        "major-anatomy-id": 7
-    },
-    {
-        "id": 15,
-        "name": "Wrist Pronator - Twist in",
-        "major-anatomy-id": 7
-    },
-    {
-        "id": 16,
-        "name": "Wrist Supinator - Twist out",
-        "major-anatomy-id": 7
-    },
-    {
-        "id": 17,
         "name": "Triceps",
         "major-anatomy-id": 6
     },
     {
+        "id": 13,
+        "name": "Brachioradialis - Up",
+        "major-anatomy-id": 7
+    },
+    {
+        "id": 14,
+        "name": "Anconeus - Down",
+        "major-anatomy-id": 7
+    },
+    {
+        "id": 15,
+        "name": "Wrist Flexor",
+        "major-anatomy-id": 7
+    },
+    {
+        "id": 16,
+        "name": "Wrist Extensor",
+        "major-anatomy-id": 7
+    },
+    {
+        "id": 17,
+        "name": "Wrist Pronator - Twist in",
+        "major-anatomy-id": 7
+    },
+    {
         "id": 18,
-        "name": "Abdominis",
-        "major-anatomy-id": 8
+        "name": "Wrist Supinator - Twist out",
+        "major-anatomy-id": 7
     },
     {
         "id": 19,
-        "name": "Obliques",
+        "name": "Rectus Abdominis",
         "major-anatomy-id": 8
     },
     {
         "id": 20,
-        "name": "Serratus Anterior",
+        "name": "Obliques",
         "major-anatomy-id": 8
     },
     {
