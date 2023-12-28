@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Running",
+        "instructions": "Start with a brisk walk, then gradually increase your pace to a comfortable running speed. Maintain good posture and land softly on your feet.",
+        "primary-muscle": "Cardiovascular",
+        "secondary-muscle": "Legs",
+        "additional-muscle": "Core",
+        "equipment": "none"
+    },
+    {
+        "id": 2,
+        "name": "Jump Rope",
+        "instructions": "Hold the jump rope handles in each hand. Jump over the rope as it passes under your feet. Land softly and keep a steady rhythm.",
+        "primary-muscle": "Cardiovascular",
+        "secondary-muscle": "Legs",
+        "additional-muscle": "Shoulders",
+        "equipment": "Jump Rope"
+    },
+    {
+        "id": 3,
+        "name": "Cycling",
+        "instructions": "Hop on a stationary bike or go for a ride outdoors. Pedal at a comfortable pace, adjusting resistance as needed. Maintain proper posture.",
+        "primary-muscle": "Cardiovascular",
+        "secondary-muscle": "Legs",
+        "additional-muscle": "Glutes",
+        "equipment": "Bicycle"
+    },
+    {
+        "id": 4,
+        "name": "Walking",
+        "instructions": "Walk at a brisk pace, swinging your arms in a natural motion. Maintain good posture and land softly on your feet.",
+        "primary-muscle": "Cardiovascular",
+        "secondary-muscle": "Legs",
+        "additional-muscle": "Core",
+        "equipment": "none"
+    },
+    {
+        "id": 5,
+        "name": "Swimming",
+        "instructions": "Engage in different strokes like freestyle, breaststroke, or backstroke. Swim laps at a comfortable pace, focusing on proper breathing.",
+        "primary-muscle": "Cardiovascular",
+        "secondary-muscle": "Full Body",
+        "additional-muscle": "Core",
+        "equipment": "pool"
+    },
+    {
+        "id": 6,
+        "name": "Rowing",
+        "instructions": "Sit on a rowing machine with proper posture. Push off with your legs, pull the handle toward your chest, and then extend your arms. Repeat in a fluid motion.",
+        "primary-muscle": "Cardiovascular",
+        "secondary-muscle": "Back",
+        "additional-muscle": "Arms",
+        "equipment": "Rowing Machine"
+    }
+]

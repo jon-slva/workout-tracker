@@ -1,0 +1,140 @@
+[
+    {
+        "id": 1,
+        "name": "Pectoralis - Upper",
+        "major-anatomy-id": 1,
+        "anatomy-id": 1
+    },
+    {
+        "id": 2,
+        "name": "Pectoralis - Lower",
+        "major-anatomy-id": 1,
+        "anatomy-id": 1
+    },
+    {
+        "id": 3,
+        "name": "Pectoralis - Center",
+        "major-anatomy-id": 1,
+        "anatomy-id": 1
+    },
+    {
+        "id": 4,
+        "name": "Pectoralis - Inner",
+        "major-anatomy-id": 1,
+        "anatomy-id": 1
+    },
+    {
+        "id": 5,
+        "name": "Gastrocnemius Medial Head",
+        "major-anatomy-id": 4,
+        "anatomy-id": 7
+    },
+    {
+        "id": 6,
+        "name": "Gastrocnemius Lateral Head",
+        "major-anatomy-id": 4,
+        "anatomy-id": 7
+    },
+    {
+        "id": 7,
+        "name": "Soleus",
+        "major-anatomy-id": 4,
+        "anatomy-id": 7
+    },
+    {
+        "id": 8,
+        "name": "Tibialis",
+        "major-anatomy-id": 4,
+        "anatomy-id": 7
+    },
+    {
+        "id": 9,
+        "name": "Anterior Deltoid",
+        "major-anatomy-id": 5,
+        "anatomy-id": 8
+    },
+    {
+        "id": 10,
+        "name": "Lateral Deltoid",
+        "major-anatomy-id": 5,
+        "anatomy-id": 8
+    },
+    {
+        "id": 11,
+        "name": "Posterior Deltoid",
+        "major-anatomy-id": 5,
+        "anatomy-id": 8
+    },
+    {
+        "id": 12,
+        "name": "Rotator Cuff - Internal Rotation",
+        "major-anatomy-id": 5,
+        "anatomy-id": 9
+    },
+    {
+        "id": 13,
+        "name": "Rotator Cuff - External Rotation",
+        "major-anatomy-id": 5,
+        "anatomy-id": 9
+    },
+    {
+        "id": 14,
+        "name": "Bicep Long Head",
+        "major-anatomy-id": 6,
+        "anatomy-id": 11
+    },
+    {
+        "id": 14,
+        "name": "Bicep Short Head",
+        "major-anatomy-id": 6,
+        "anatomy-id": 11
+    },
+    {
+        "id": 15,
+        "name": "Tricep Long Head",
+        "major-anatomy-id": 6,
+        "anatomy-id": 12
+    },
+    {
+        "id": 16,
+        "name": "Tricep Lateral Head",
+        "major-anatomy-id": 6,
+        "anatomy-id": 12
+    },
+    {
+        "id": 17,
+        "name": "Tricep Medial Head",
+        "major-anatomy-id": 6,
+        "anatomy-id": 12
+    },
+    {
+        "id": 18,
+        "name": "Upper Rectus Abdominis",
+        "major-anatomy-id": 8,
+        "anatomy-id": 19
+    },
+    {
+        "id": 19,
+        "name": "Lower Rectus Abdominis",
+        "major-anatomy-id": 8,
+        "anatomy-id": 19
+    },
+    {
+        "id": 20,
+        "name": "Internal Obliques",
+        "major-anatomy-id": 8,
+        "anatomy-id": 20
+    },
+    {
+        "id": 21,
+        "name": "External Obliques",
+        "major-anatomy-id": 8,
+        "anatomy-id": 20
+    },
+    {
+        "id": 18,
+        "name": "External Obliques",
+        "major-anatomy-id": 8,
+        "anatomy-id": 18
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Pectoralis",
+        "major-anatomy-id": 1
+    },
+    {
+        "id": 2,
+        "name": "Trapezius",
+        "major-anatomy-id": 2
+    },
+    {
+        "id": 3,
+        "name": "Latissimus Dorsi",
+        "major-anatomy-id": 2
+    },
+    {
+        "id": 4,
+        "name": "Quadriceps",
+        "major-anatomy-id": 3
+    },
+    {
+        "id": 5,
+        "name": "Hamstrings",
+        "major-anatomy-id": 3
+    },
+    {
+        "id": 6,
+        "name": "Glutes",
+        "major-anatomy-id": 3
+    },
+    {
+        "id": 7,
+        "name": "Calves",
+        "major-anatomy-id": 4
+    },
+    {
+        "id": 8,
+        "name": "Deltoids",
+        "major-anatomy-id": 5
+    },
+    {
+        "id": 9,
+        "name": "Rotator-Cuff",
+        "major-anatomy-id": 5
+    },
+    {
+        "id": 10,
+        "name": "Serratus Anterior",
+        "major-anatomy-id": 5
+    },
+    {
+        "id": 11,
+        "name": "Biceps",
+        "major-anatomy-id": 6
+    },
+    {
+        "id": 12,
+        "name": "Triceps",
+        "major-anatomy-id": 6
+    },
+    {
+        "id": 13,
+        "name": "Brachioradialis - Up",
+        "major-anatomy-id": 7
+    },
+    {
+        "id": 14,
+        "name": "Anconeus - Down",
+        "major-anatomy-id": 7
+    },
+    {
+        "id": 15,
+        "name": "Wrist Flexor",
+        "major-anatomy-id": 7
+    },
+    {
+        "id": 16,
+        "name": "Wrist Extensor",
+        "major-anatomy-id": 7
+    },
+    {
+        "id": 17,
+        "name": "Wrist Pronator - Twist in",
+        "major-anatomy-id": 7
+    },
+    {
+        "id": 18,
+        "name": "Wrist Supinator - Twist out",
+        "major-anatomy-id": 7
+    },
+    {
+        "id": 19,
+        "name": "Rectus Abdominis",
+        "major-anatomy-id": 8
+    },
+    {
+        "id": 20,
+        "name": "Obliques",
+        "major-anatomy-id": 8
+    },
+    {
+        "id": 21,
+        "name": "Sternocleidomastoid - Rotation",
+        "major-anatomy-id": 9
+    },
+    {
+        "id": 22,
+        "name": "Sternocleidomastoid - Forward",
+        "major-anatomy-id": 9
+    },
+    {
+        "id": 23,
+        "name": "Erector Spinae - Backward",
+        "major-anatomy-id": 9
+    },
+    {
+        "id": 24,
+        "name": "Sternocleidomastoid - Side-Side",
+        "major-anatomy-id": 9
+    }
+]

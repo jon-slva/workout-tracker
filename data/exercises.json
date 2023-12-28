@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Push-ups",
+        "id": 1,
+        "image": "./assets/images/exercises/pushup.jpg",
+        "video": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+        "primary-muscle": "pectoralis major",
+        "secondary-muscle": "triceps",
+        "additional-muscle": "anterior deltoid",
+        "instructions": "Lie prone on the ground with hands placed as wide or slightly wider than shoulder width. Keeping the body straight, lower body to the ground by bending arms at the elbows. Raise body up off the ground by extending the arms.",
+        "equipment": "none"
+    },
+    {
+        "name": "Barbell Bench Press",
+        "id": 2,
+        "image": "./assets/images/exercises/barbell-bench-press.webm",
+        "video": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+        "primary-muscle": "pectoralis major",
+        "secondary-muscle": "triceps",
+        "additional-muscle": "anterior deltoid",
+        "instructions": "### Bench Press\n\n**Setup:** Lie on the bench with feet on the ground.\n\n**Lift:** Grab the bar with a wide grip. Lift it off the rack, arms straight.\n\n**Move:** Lower the bar to your chest. Push it back up.\n\n**Repeat:** Perform desired reps.\n\n**Tips:** Keep feet stable. Control the bar throughout. Start with a manageable weight.",
+        "equipment": "Barbell"
+    },
+    {
+        "name": "Cable Pushdown",
+        "id": 3,
+        "image": "./assets/images/exercises/tricep-cable-pushdown.webm",
+        "video": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+        "primary-muscle": "triceps",
+        "secondary-muscle": null,
+        "additional-muscle": null,
+        "instructions": "### Triceps Cable Pushdown\n\n**Setup:** Stand facing a cable machine with a straight bar attached.\n\n**Grip:** Grab the bar with an overhand grip, hands shoulder-width apart.\n\n**Push:** Keep elbows close to your body. Push the bar downward by straightening your arms.\n\n**Return:** Slowly return the bar to the starting position.\n\n**Repeat:** Perform desired reps.\n\n**Tips:** Maintain a stable stance. Focus on triceps contraction. Use a weight you can control.",
+        "equipment": "Cables"
+    }
+]
